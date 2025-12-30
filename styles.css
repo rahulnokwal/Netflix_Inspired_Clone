@@ -20,7 +20,6 @@ body {
   overflow-x: hidden;
 }
 
-/* --- Utilities --- */
 .max-width-container {
   max-width: 1200px;
   margin: 0 auto;
